@@ -1,0 +1,32 @@
+body {
+    background-color: #FA8072;
+}
+
+input {
+    margin-top: 100px;
+    margin-left:220px;
+    width:250px;
+    height: 40px;
+    display: block;
+    padding-left:395px;
+}
+#output {
+    margin-top:45px;
+    width:100px;
+    background: lightgreen;
+    margin-left:400px;
+}
+#btn {
+    width: 50%;
+    color: #fff;
+    background-color:blue;
+    display: block;
+    border-style: none;
+    border-radius:15px;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    color: #000;
+    margin-top:50px;
+}
